@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carson
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning How to code in oython
+- 🌱 I’m currently learning How to code in python
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me carsonstephens47@gmail.com
 - 😄 Pronouns: He/him
